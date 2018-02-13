@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-    12
+    
     partial class Form1
     {
         /// <summary>
